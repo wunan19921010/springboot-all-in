@@ -5,6 +5,9 @@
 	<groupId>com.wnn.spring-boot</groupId>
 	<artifactId>parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<modules>
+		<module>all-springboot</module>
+	</modules>
 	<packaging>pom</packaging>
 
 	<name>parent</name>
