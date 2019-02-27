@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parent/all-springboot/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/parent/all-springboot/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/all-springboot/allspringboot.iml" filepath="$PROJECT_DIR$/parent/all-springboot/allspringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/github.iml" filepath="$PROJECT_DIR$/github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/all-springboot/h2/h2.iml" filepath="$PROJECT_DIR$/parent/all-springboot/h2/h2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/all-springboot/mybatis-generator/mybatisgenerator.iml" filepath="$PROJECT_DIR$/parent/all-springboot/mybatis-generator/mybatisgenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/all-springboot/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/parent/all-springboot/springboot-mybatis/springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/all-springboot/study01/study01.iml" filepath="$PROJECT_DIR$/parent/all-springboot/study01/study01.iml" />
+    </modules>
+  </component>
+</project>
